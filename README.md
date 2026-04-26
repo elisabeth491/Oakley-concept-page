@@ -9,7 +9,7 @@ The goal of this project is to present the watch not just as a product, but as a
 ---
 
 ⚙️ How to Use
-Clone the repository (download zip and extract it)
+Clone the repository (or download zip)
 Open Oakley.html in your browser
 
 ---
