@@ -52,6 +52,7 @@ Open Oakley.html in your browser
 * **milestone.html** Deep dive into the watch’s history & cultural impact
 * **mad-science.html**  Deep dive into the watch’s technological features
 * **Oakleystyle.css** Shared styling across all pages
+* **IMG** folder for all the images used
 
 ---
 
