@@ -2,15 +2,17 @@
 
 # 🌐 Concept Website – Oakley Time Bomb
 
-This project is a concept website dedicated to the **Oakley Time Bomb**, one of the most experimental and iconic watches of the late 1990s.
+This project is a concept website dedicated to the Oakley Time Bomb, one of the most experimental and iconic watches of the late 1990s.
 
 The goal of this project is to present the watch not just as a product, but as a piece of design history, combining storytelling, layout, and modern web design to create an immersive experience.
 
 ---
 
 ⚙️ How to Use
-Clone the repository (or download zip)
-Open Oakley.html in your browser
+
+Download zip
+
+Open Oakley.html 
 
 ---
 
